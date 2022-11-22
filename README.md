@@ -51,8 +51,9 @@ Parts 1 & 2 of Switchboard's Take Home
 - [React.js](https://reactjs.org/) with [Vite](https://vitejs.dev/)
 - [React Query v.3](https://react-query-v3.tanstack.com/)
 - [React Table v.7](https://react-table-v7.tanstack.com/)
-- [Express.js](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en/) + [Express.js](https://expressjs.com/)
 - [MongoDB Atlas](https://www.mongodb.com/)
+- [Mongoose.js](https://mongoosejs.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -64,7 +65,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This project was created with `yarn@3.2.2`
+This project was created with `yarn@3.2.2`, please ensure you're using the correct yarn version
 
 - install yarn if you don't have it
   ```sh
@@ -79,7 +80,7 @@ This project was created with `yarn@3.2.2`
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/emmebravo/switchboard.git
    ```
 2. Install NPM packages
 
@@ -122,11 +123,11 @@ This project was created with `yarn@3.2.2`
 - the webhook `post` endpoint is not accessible via React. I treated it as if it was only accessible by an actual service sending a webhook
 - it was tested with Postman's API:
 
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/emmebravo/switchboard">
     <img src="images/screenshot01.png" alt="screenshot showing basic auth username and password" width="300" height="380">
   </a>
 
-    <a href="https://github.com/github_username/repo_name">
+    <a href="https://github.com/emmebravo/switchboard">
     <img src="images/screenshot02.png" alt="screenshot showing the json object and 200 status" width="300" height="380">
   </a>
 
