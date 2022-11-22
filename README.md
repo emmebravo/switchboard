@@ -123,11 +123,11 @@ This project was created with `yarn@3.2.2`
 - it was tested with Postman's API:
 
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/screenshot01.png" alt="Logo" width="300" height="380">
+    <img src="images/screenshot01.png" alt="screenshot showing basic auth username and password" width="300" height="380">
   </a>
 
     <a href="https://github.com/github_username/repo_name">
-    <img src="images/screenshot02.png" alt="Logo" width="300" height="380">
+    <img src="images/screenshot02.png" alt="screenshot showing the json object and 200 status" width="300" height="380">
   </a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
