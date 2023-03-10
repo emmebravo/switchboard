@@ -28,7 +28,7 @@ const TableLayout = ({ columns, data }) => {
     nextPage,
     previousPage,
     setPageSize,
-    state: { groupBy, expanded, pageIndex, pageSize },
+    state: { pageIndex, pageSize },
   } = useTable(
     {
       columns,
