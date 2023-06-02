@@ -40,12 +40,6 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
-
-Parts 1 & 2 of Switchboard's Take Home
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 - [React.js](https://reactjs.org/) with [Vite](https://vitejs.dev/)
