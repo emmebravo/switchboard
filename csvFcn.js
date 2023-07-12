@@ -1,9 +1,5 @@
 import csv from "csvtojson";
 import DonorModel from "./models/DonorModel.js";
-// import DonorMod from "./models/DonorMod.js";
-// import ContributionMod from "./models/ContributionMod.js";
-// import LineItemMod from "./models/LineItemMod.js";
-// import FormMod from "./models/FormMod.js";
 
 const csvFcn = async () => {
   try {
